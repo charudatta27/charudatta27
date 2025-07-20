@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey there 👋, I'm Charudatta Shimpi</h1>
-<h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | Based in Mumbai 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Building+MERN+Apps+%F0%9F%9A%80;Learning+Cloud+and+DevOps+%E2%9A%99%EF%B8%8F;Frontend+Lover+%E2%9D%A4%EF%B8%8F;Always+Learning...+%F0%9F%93%9A" alt="Typing SVG" />
@@ -12,8 +12,8 @@
 
 - 🎯 Passionate about creating responsive, accessible, and high-performing web apps.
 - 🌱 Currently learning **DSA**, **DevOPS**, and **AWS**.
-- 💼 Open to work as **Full Stack Developer / MERNstack Developer**.
-- 📬 Reach me: [charudattashimpi@gmail.com](mailto:charudattashimpi005@gmail.com)
+- 💼 Open to work as **Full Stack Developer / MERN Stack Developer**.
+- 📬 Reach me: [charudattashimpi005@gmail.com](mailto:charudattashimpi005@gmail.com)
 
 ---
 
