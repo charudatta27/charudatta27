@@ -11,9 +11,9 @@
 ## 🧑‍💻 About Me
 
 - 🎯 Passionate about creating responsive, accessible, and high-performing web apps.
-- 🌱 Currently learning **TypeScript**, **Next.js**, and **AWS**.
-- 💼 Open to work as **Full Stack Developer / Frontend Developer**.
-- 📬 Reach me: [charudattashimpi@gmail.com](mailto:charudattashimpi@gmail.com)
+- 🌱 Currently learning **DSA**, **DevOPS**, and **AWS**.
+- 💼 Open to work as **Full Stack Developer / MERNstack Developer**.
+- 📬 Reach me: [charudattashimpi@gmail.com](mailto:charudattashimpi005@gmail.com)
 
 ---
 
