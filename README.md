@@ -8,6 +8,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Building+FULL+Apps+%F0%9F%9A%80;Learning+Cloud+and+DevOps+%E2%9A%99%EF%B8%8F;Frontend+Lover+%E2%9D%A4%EF%B8%8F;Always+Learning...+%F0%9F%93%9A" alt="Typing SVG" />
 
+
+
+  
+
 </p>
 
 ---
