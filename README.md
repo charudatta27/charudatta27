@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Charudatta Shimpi</h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Developer </h3>
+<h3 align="center">🚀 Software Developer </h3>
 
 
 
@@ -19,7 +19,7 @@
 
 - 🌱 Currently learning DSA, DevOPS, and CLOUD.
 
-- 💼 Open to work as Full Stack Developer / MERN Stack Developer.
+- 💼 Open to work as Java-FullStack Developer / MERN Stack Developer.
 
 - 📬 Reach me: [charudattashimpi005@gmail.com](mailto:charudattashimpi005@gmail.com)
 
