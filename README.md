@@ -19,7 +19,7 @@
 
 - 🌱 Currently learning DEVELOPEMENT, DSA, DevOPS, and CLOUD.
 
-- 💼 Open to work as Java-FullStack Developer / .
+- 💼 Open to work as Java-FullStack Developer / Mern Stack Developer.
 
 - 📬 Reach me: [charudattashimpi005@gmail.com](mailto:charudattashimpi005@gmail.com)
 
