@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me...
 
 - 🎯 Passionate about creating responsive, accessible, and high-performing web apps.
 
