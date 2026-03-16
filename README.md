@@ -77,4 +77,4 @@
 
 ### 📚 Coursework  
 
-Data Structures, DBMS, OOPs, Computer Networks, Operating Systems, Machine Learning, AI<!-- Header -->
+Data Structures, Algorithm, DBMS, OOPs, Computer Networks, Operating Systems, Machine Learning, AI<!-- Header -->
