@@ -17,7 +17,7 @@
 
 - 🎯 Passionate about creating responsive, accessible, and high-performing web apps.
 
-- 🌱 Currently learning DEVELOPEMENT, DSA, DevOPS, and CLOUD.
+- 🌱 Currently learning DEVELOPEMENT, DSA, and CLOUD.
 
 - 💼 Open to work as Java-FullStack Developer / Mern Stack Developer.
 
