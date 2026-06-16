@@ -60,7 +60,7 @@
 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🧰 Tools & Platforms  
+### 🧰 Tools & Platforms.........
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
