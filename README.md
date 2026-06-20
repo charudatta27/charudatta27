@@ -72,6 +72,6 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 📚 Coursework  
+### 📚 Coursework.......
 
 Data Structures, Algorithm, DBMS, OOPs, Computer Networks, Operating Systems, AI<!-- Header -->
